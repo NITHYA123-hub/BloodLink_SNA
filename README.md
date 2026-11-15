@@ -4,6 +4,10 @@
 
 BloodLink is a Python-based application that uses Social Network Analysis to explore the geographical distribution and connectivity of blood banks across India.
 
+## 🌐 Live Application
+
+[🚀 Open BloodLink – Healthcare Network Analytics](https://bloodlink-network.streamlit.app/)
+
 ## Features
 - Blood bank search and filtering
 - Interactive healthcare dashboard
