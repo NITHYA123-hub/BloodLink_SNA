@@ -1,0 +1,625 @@
+bank_id,name,state,district,lat,lon,degree_centrality,betweenness_centrality,closeness_centrality,community
+BB8,South Central Railway Hospital Blood Bank,andhra-pradesh,Anantapur,15.17289,77.3661,0.0,0.0,0.0,3
+BB9,Indian Red Cross Society Blood Bank,andhra-pradesh,Anantapur,13.83253,77.49221,0.0,0.0,0.0,4
+BB10,Indian Red Cross Society Blood bank RCH -II KADIRI,andhra-pradesh,Anantapur,14.11309,78.15737,0.0,0.0,0.0,5
+BB11,S.S.S.I.H.M.S. Blood Bank,andhra-pradesh,Anantapur,14.15189,77.77685,0.0,0.0,0.0,6
+BB15,M/s PESIMSR Blood Bank.,andhra-pradesh,Chittoor,12.79122,78.3639,0.0,0.0,0.0,8
+BB17,"Indian Red Cross Society, Madanapalli RCH 2",andhra-pradesh,Chittoor,13.55693,78.50085,0.0,0.0,0.0,9
+BB30,M/s. Government Area General Hospital Blood Bank.,andhra-pradesh,East Godavari,17.35494,82.54124,0.0,0.0,0.0,13
+BB36,Katuri Medical College and Hospital Blood Bank,andhra-pradesh,Guntur,16.22787,80.30947,0.0,0.0,0.0,15
+BB41,Anjireddy Multi Specality Blood Bank,andhra-pradesh,Guntur,16.47879,79.89364,0.0,0.0,0.0,17
+BB42,Red Cross Blood Bank,andhra-pradesh,Guntur,16.01743,80.82948,0.0,0.0,0.0,18
+BB46,Area Hospital Blood Bank,andhra-pradesh,Krishna,16.34905,81.04972,0.0,0.0,0.0,20
+BB49,Dr. Pinnamaneni Siddhartha Insitiute of Medical Sciences & Research Foundation (Dr.P.SIMS & RF) Blood Bank,andhra-pradesh,Krishna,16.55166,80.83205,0.0,0.0,0.0,23
+BB64,District Hospital Blood Bank,andhra-pradesh,Kurnool,15.46934,78.48294,0.0,0.0,0.0,26
+BB65,Government Hospital Blood Bank,andhra-pradesh,Kurnool,16.0833,78.8667,0.0,0.0,0.0,27
+BB66,M/s. Area Hospital Blood Bank,andhra-pradesh,Prakasam,15.82597,80.36127,0.0,0.0,0.0,28
+BB67,Indian Red Cross Society Blood bank,andhra-pradesh,Prakasam,15.73615,79.26913,0.0,0.0,0.0,29
+BB72,Government Hospital Blood Bank,andhra-pradesh,Spsr Nellore,14.14655,79.84876,0.0,0.0,0.0,31
+BB73,M/s. Kanamarlapudi Koteswara Rao Indian Red Cross Society Blood Bank,andhra-pradesh,Spsr Nellore,14.91318,79.99298,0.0,0.0,0.0,32
+BB78,GMR Varalakshmi Care Hospital Blood Bank,andhra-pradesh,Srikakulam,18.46127,83.65835,0.0,0.0,0.0,34
+BB81,District Hospital,andhra-pradesh,Visakhapatnam,17.68959,82.99773,0.0,0.0,0.0,36
+BB84,M/s. Anil Neerukonda Hospital Blood Bank,andhra-pradesh,Visakhapatnam,17.97256,83.43234,0.0,0.0,0.0,37
+BB96,"Indian Red Cross Society Blood Bank, RCH-II",andhra-pradesh,Vizianagaram,18.78172,83.42675,0.0,0.0,0.0,40
+BB105,M/s. Indian Red Cross Society Blood Bank jangareddi gudem,andhra-pradesh,West Godavari,17.12531,81.27391,0.0,0.0,0.0,45
+BB113,Rajiv Gandhi Institute of Medical Sciences Blood Bank,andhra-pradesh,Y.S.R. (Kadapa),15.13339,78.5141,0.0,0.0,0.0,49
+BB114,District Hospital Blood Bank,andhra-pradesh,Y.S.R. (Kadapa),14.74162,78.55096,0.0,0.0,0.0,50
+BB115,A.P. Vaidyavidhanaparishad Area Hospital - IRCS Blood Bank,andhra-pradesh,Y.S.R. (Kadapa),14.42223,78.22634,0.0,0.0,0.0,51
+BB116,Changlang District Hospital Blood Bank,arunachal-pradesh,Changlang,27.13926,95.73876,0.0,0.0,0.0,52
+BB117,Pasighat General Hospital Blood Bank,arunachal-pradesh,East Siang,28.07154,95.32511,0.0,0.0,0.0,53
+BB118,Lohit District Hospital Blood Bank,arunachal-pradesh,Lohit,27.55957,96.10163,0.0,0.0,0.0,54
+BB119,General Hospital Ziro Blood Bank,arunachal-pradesh,Lower Subansiri,27.53875,93.82218,0.0,0.0,0.0,55
+BB122,Tawang District Hospital Blood Bank,arunachal-pradesh,Tawang,27.58894,91.8649,0.0,0.0,0.0,57
+BB123,Upper Siang District Hospital Blood Bank,arunachal-pradesh,Upper Siang,28.64166,95.02535,0.0,0.0,0.0,58
+BB124,Upper Subansiri District Hospital Blood Bank,arunachal-pradesh,Upper Subansiri,27.98133,94.21743,0.0,0.0,0.0,59
+BB125,West Siang District Hospital Blood Bank,arunachal-pradesh,West Siang,28.16928,94.80103,0.0,0.0,0.0,60
+BB126,Fakhruddin Ali Ahmed (FAA) Medical College Hospital Blood Bank,assam,Barpeta,26.32379,90.98666,0.0,0.0,0.0,61
+BB133,Mangaldoi Civil Hospital Blood Bank,assam,Darrang,26.43755,92.0364,0.0,0.0,0.0,64
+BB134,Dhemaji Civil Hospital Blood Bank,assam,Dhemaji,27.45803,94.57453,0.0,0.0,0.0,65
+BB135,Dhubri Civil Hospital Blood Bank,assam,Dhubri,26.03437,89.96355,0.0,0.0,0.0,66
+BB139,Oil India Limited Hospital Blood Bank,assam,Dibrugarh,27.35919,95.32365,0.0,0.0,0.0,68
+BB140,Haflong Civil Hospital Blood Bank,assam,Dima Hasao,25.16565,93.02483,0.0,0.0,0.0,69
+BB143,Kushal Konwar (KK) Civil Hospital Blood Bank,assam,Golaghat,26.51017,93.96457,0.0,0.0,0.0,71
+BB144,Vivekananda Kendra NRL Hospital Blood Bank,assam,Golaghat,26.59137,93.74952,0.0,0.0,0.0,72
+BB145,S. K. Roy Civil Hospital Blood Bank,assam,Hailakandi,24.67177,92.56336,0.0,0.0,0.0,73
+BB167,Diphu Civil Hospital Blood Bank,assam,Karbi Anglong,25.84428,93.43381,0.0,0.0,0.0,76
+BB168,Karimganj Civil Hospital Blood Bank,assam,Karimganj,24.8676,92.36181,0.0,0.0,0.0,77
+BB169,R.N.B. Civil Hospital Blood Bank,assam,Kokrajhar,26.45288,89.9764,0.0,0.0,0.0,78
+BB170,North Lakhimpur Civil Hospital Blood Bank,assam,Lakhimpur,27.24269,94.10648,0.0,0.0,0.0,79
+BB171,Morigaon Civil Hospital Blood Bank,assam,Morigaon,26.25165,92.35452,0.0,0.0,0.0,80
+BB172,Haji Abdul Majid Memorial Hospital and Research Centre Blood Bank,assam,Nagaon,26.01599,92.86819,0.0,0.0,0.0,81
+BB180,Catholic Hospital Blood Bank,assam,Sonitpur,26.81534,93.32019,0.0,0.0,0.0,85
+BB183,Tezpur Medical College Hospital Blood Bank,assam,Sonitpur,26.68097,92.65335,0.0,0.0,0.0,87
+BB184,Indian Oil Corp Ltd (AOD) Hospital blood bank,assam,Tinsukia,27.39287,95.62943,0.0,0.0,0.0,88
+BB185,Central Hospital Coal India Limited,assam,Tinsukia,27.28929,95.67477,0.0,0.0,0.0,89
+BB188,Rastra Kavi Dinkar Blood Bank,bihar,Begusarai,25.4138,86.13596,0.0,0.0,0.0,91
+BB189,Jawaharlal Nehru Medical College Hospital (JNMCH) Blood Bank,bihar,Bhagalpur,25.26422,87.00213,0.0,0.0,0.0,92
+BB194,Sadar Hospital Buxar Blood Bank,bihar,Buxar,25.56471,83.97775,0.0,0.0,0.0,95
+BB195,Darbhanga Medical College and Hospital (DMCH) Regional Blood Bank,bihar,Darbhanga,26.13343,85.89894,0.0,0.0,0.0,96
+BB196,"Indian Red Cross Society Blood Bank, Motihari",bihar,East Champaran,26.64748,84.9103,0.0,0.0,0.0,97
+BB197,Anugrah Narayan Memorial Magadh Medical College Hospital (ANMMCH) Blood Bank,bihar,Gaya,24.77118,84.9603,0.0,0.0,0.0,98
+BB198,"Sadar Hospital, Gopalganj Blood Bank",bihar,Gopalganj,26.46076,84.44112,0.0,0.0,0.0,99
+BB200,Sadar Hospital Kaimur (Bhabua) Blood Bank,bihar,Kaimur (Bhabua),25.03958,83.60774,0.0,0.0,0.0,101
+BB202,Sadar Hospital Khagaria Blood Bank,bihar,Khagaria,25.50788,86.47458,0.0,0.0,0.0,102
+BB203,Sadar Hospital Kishanganj Blood Bank,bihar,Kishanganj,26.10178,87.94883,0.0,0.0,0.0,103
+BB204,Sadar Hospital Madhepura Blood Bank,bihar,Madhepura,25.92291,86.79223,0.0,0.0,0.0,104
+BB215,Sadar Hospital Sasaram Blood Bank,bihar,Rohtas,24.95278,84.0139,0.0,0.0,0.0,108
+BB216,Sadar Hospital Saharsa Blood Bank,bihar,Saharsa,25.88715,86.59095,0.0,0.0,0.0,109
+BB217,Sadar Hospital Samastipur Blood Bank,bihar,Samastipur,25.85721,85.77851,0.0,0.0,0.0,110
+BB218,Sadar Hospital Chhapra Blood Bank,bihar,Saran,25.78172,84.73066,0.0,0.0,0.0,111
+BB219,Sadar Hospital Sheikhpura Blood Bank,bihar,Sheikhpura,25.1332,85.84142,0.0,0.0,0.0,112
+BB220,Sadar Hospital Sitamarhi Blood Bank,bihar,Sitamarhi,26.59624,85.49475,0.0,0.0,0.0,113
+BB221,Sadar Hospital Siwan Blood Bank,bihar,Siwan,26.22616,84.36185,0.0,0.0,0.0,114
+BB223,Maharani Janki Kunwar (MJK) Hospital Blood Bank,bihar,West Champaran,26.79693,84.5009,0.0,0.0,0.0,115
+BB228,Maharani Hospital Blood Bank,chhattisgarh,Bastar,19.08507,82.02396,0.0,0.0,0.0,116
+BB235,District Hospital Blood Bank Dantewada,chhattisgarh,Dantewada,18.89362,81.3505,0.0,0.0,0.0,119
+BB244,Kawardha District Hospital Blood Bank,chhattisgarh,Kabirdham (Kawardha),22.036,81.221,0.0,0.0,0.0,122
+BB245,Kanker District Hospital Blood Bank,chhattisgarh,Kanker,20.26472,81.49516,0.0,0.0,0.0,123
+BB248,"Distrcit Hospital Baikunthpur Blood bank, Korea",chhattisgarh,Korea,23.26,82.562,0.0,0.0,0.0,125
+BB249,Christian Hospital Blood Bank,chhattisgarh,Mungeli,22.07099,81.68763,0.0,0.0,0.0,126
+BB250,Ramakrishna Mission Ashram Blood Bank,chhattisgarh,Narayanpur,19.71663,81.22928,0.0,0.0,0.0,127
+BB251,District Hospital Blood Bank Mahasamund,chhattisgarh,Raigarh,21.11932,82.07431,0.0,0.0,0.0,128
+BB259,Evangelical Mission Hospital Blood Bank,chhattisgarh,Raipur,21.55398,81.79053,0.0,0.0,0.0,130
+BB268,Medical college& Hospital Blood Bank Rajnandgaon,chhattisgarh,Rajnandgaon,21.08646,81.03028,0.0,0.0,0.0,132
+BB272,Indian Red Cross Society (IRCS) Blood Bank,dadra-and-nagar-haveli-and-daman-and-diu,Dadra and Nagar Haveli,20.27627,73.00831,0.0,0.0,0.0,134
+BB273,Daman Raktadan Kendra,dadra-and-nagar-haveli-and-daman-and-diu,Daman,20.43325,72.83128,0.0,0.0,0.0,135
+BB274,Diu District Blood Bank,dadra-and-nagar-haveli-and-daman-and-diu,Diu,20.71286,70.98893,0.0,0.0,0.0,136
+BB343,District Hospital Blood Bank,goa,North Goa,15.59759,73.8202,0.0,0.0,0.0,139
+BB371,Indian Red Cross Society Blood Bank,gujarat,Amreli,21.60699,71.22186,0.0,0.0,0.0,143
+BB374,Indu Voluntary Blood Bank,gujarat,Anand,22.59639,72.80717,0.0,0.0,0.0,145
+BB387,Adarsh Voluntary Blood Bank,gujarat,Banaskantha,24.39628,71.63804,0.0,0.0,0.0,149
+BB388,Kumarpal Gandhi Blood Bank,gujarat,Bharuch,21.62815,72.99578,0.0,0.0,0.0,150
+BB391,Navkar Charitable Trust Mahuva Blood Bank,gujarat,Bhavnagar,21.08896,71.76909,0.0,0.0,0.0,151
+BB393,Smt. Sonalien A. Shah Blood Bank,gujarat,Bhavnagar,22.17897,71.65179,0.0,0.0,0.0,153
+BB394,Tulsi Pathology Laboratory and Blood Bank,gujarat,Bhavnagar,21.52921,71.8247,0.0,0.0,0.0,154
+BB397,Samarth Raktdan Kendra,gujarat,Dahod,22.94928,73.63024,0.0,0.0,0.0,156
+BB398,General Hospital Blood Bank Ahwa,gujarat,Dang,20.76161,73.68924,0.0,0.0,0.0,157
+BB401,"Indian Red Cross Society (IRCS), Kalol, Gandhinagar",gujarat,Gandhinagar,22.60858,73.45958,0.0,0.0,0.0,158
+BB403,Indian Medical Association (IMA) Blood Bank,gujarat,Gandhinagar,23.42006,72.65318,0.0,0.0,0.0,160
+BB405,General Hospital Blood Bank,gujarat,Jamnagar,22.20859,69.65191,0.0,0.0,0.0,162
+BB407,Tata Chemical Limited Blood Bank Mithapur,gujarat,Jamnagar,22.20552,69.10254,0.0,0.0,0.0,163
+BB408,Divyajyoti Charitable Voulantary Blood Bank,gujarat,Junagadh,20.82764,70.04177,0.0,0.0,0.0,164
+BB411,"Navjeevan Blood Bank and Clinical Laboratory, Veraval",gujarat,Junagadh,20.91949,70.35274,0.0,0.0,0.0,166
+BB413,"Sardar Patel voulantary Blood Bank, Keshod",gujarat,Junagadh,21.29708,70.24613,0.0,0.0,0.0,167
+BB416,Mayur Voluntary Blood Bank Mandvi,gujarat,Kachchh,22.8333,69.3542,0.0,0.0,0.0,169
+BB417,Indian Red Cross Society Blood Bank,gujarat,Kheda,22.02154,73.0772,0.0,0.0,0.0,170
+BB422,"Sardar Seva Trust, Unjha Nagrik Sahkari Voluntary Blood Bank",gujarat,Mehsana,23.80402,72.38971,0.0,0.0,0.0,173
+BB423,Visnagar Voluntary Blood Bank,gujarat,Mehsana,23.70159,72.5419,0.0,0.0,0.0,174
+BB424,Indian Red Cross Society Blood Bank Navsari,gujarat,Navsari,20.94988,72.91837,0.0,0.0,0.0,175
+BB425,Lions Medical Trust Blood Bank Chikhali,gujarat,Navsari,20.94793,73.02807,0.0,0.0,0.0,176
+BB428,"Bahansali Trust Raktdan Kendra, Radhanpur",gujarat,Patan,23.82354,71.61614,0.0,0.0,0.0,178
+BB431,General Hospital Blood Bank Siddhpur,gujarat,Patan,23.91617,72.37298,0.0,0.0,0.0,180
+BB434,Astha Voluntary Blood Bank Gondal,gujarat,Rajkot,21.95915,70.80312,0.0,0.0,0.0,182
+BB436,Jagruti Charitable Trust Blood Bank Dhoraji,gujarat,Rajkot,21.73188,70.45013,0.0,0.0,0.0,184
+BB437,Jetpur Medical Foundation Trust Blood Bank Jetpur,gujarat,Rajkot,21.75719,70.62264,0.0,0.0,0.0,185
+BB445,GMERS Medical College Attach Sir Pratap General Hospital Blood Bank,gujarat,Sabarkantha,23.59569,72.96069,0.0,0.0,0.0,187
+BB452,Shree Sardar Smarak Hospital Blood Bank,gujarat,Surat,21.13045,73.1081,0.0,0.0,0.0,190
+BB458,Sharddha Voluntary Blood Bank and Pathology Laboratory Dhangadhra,gujarat,Surendranagar,22.99084,71.47162,0.0,0.0,0.0,192
+BB459,Maliba Raktdan Kendra (IRCS),gujarat,Tapi,21.11876,73.40413,0.0,0.0,0.0,193
+BB464,Kailash Cancer Hospital & Research Centre Blood Bank.,gujarat,Vadodara,22.33463,73.46416,0.0,0.0,0.0,194
+BB474,MM Institute of Medical Sciences and Research Blood Bank,haryana,Ambala,30.25228,77.04949,0.0,0.0,0.0,199
+BB478,General Hospital Bhiwani Blood Bank,haryana,Bhiwani,28.79723,76.13081,0.0,0.0,0.0,200
+BB479,Gold Field Hospital and Research Centre,haryana,Faridabad,28.27708,77.45495,0.0,0.0,0.0,201
+BB488,General Hospital Blood Bank Fatehabad,haryana,Fatehabad,29.51763,75.44899,0.0,0.0,0.0,202
+BB489,Jagdambe Blood Bank,haryana,Fatehabad,29.71559,75.90096,0.0,0.0,0.0,203
+BB500,Dr. Anant Ram Janta Hospital Blood Bank,haryana,Hisar,29.36316,75.90177,0.0,0.0,0.0,207
+BB507,"Maharaja Agrasen Medical College, Agroha, Blood Bank",haryana,Hisar,29.33671,75.62263,0.0,0.0,0.0,208
+BB508,General Hospital Blood Bank Jhajjar,haryana,Jhajjar,28.60774,76.64289,0.0,0.0,0.0,209
+BB513,General Hospital Blood Bank Karnal,haryana,Karnal,29.69607,76.99419,0.0,0.0,0.0,212
+BB518,Shaheed Hasan Khan Mewati Government Medical College Blood Bank,haryana,Mewat,28.09117,76.97156,0.0,0.0,0.0,214
+BB519,General Hospital Blood Bank Palwal,haryana,Palwal,28.13609,77.32702,0.0,0.0,0.0,215
+BB523,N.C. Medical College and Hospital Blood Bank,haryana,Panipat,29.28657,76.87896,0.0,0.0,0.0,216
+BB529,Pandit Bhagwat Dayal Sharma Post Graduate Institute of Medical Sciences (PGIMS) Blood Bank,haryana,Rohtak,28.87994,76.60805,0.0,0.0,0.0,219
+BB533,Bhagat Phool Singh Government Medical College for Women Blood Bank,haryana,Sonipat,29.14977,76.80834,0.0,0.0,0.0,221
+BB538,Bilaspur Regional Hospital Blood bank,himachal-pradesh,Bilaspur,31.33574,76.76525,0.0,0.0,0.0,224
+BB539,Chamba Regional Hospital Blood Bank,himachal-pradesh,Chamba,32.55883,76.12246,0.0,0.0,0.0,225
+BB542,Dharamshala Zonal Hospital Blood Bank,himachal-pradesh,Kangra,32.21291,76.3194,0.0,0.0,0.0,227
+BB543,Dr Rajendra Prasad Government Medical College (RPGMC) Blood Bank Tanda,himachal-pradesh,Kangra,32.09827,76.30077,0.0,0.0,0.0,228
+BB544,Civil Hospital Blood Bank Palampur,himachal-pradesh,Kangra,32.10773,76.53488,0.0,0.0,0.0,229
+BB545,Reckong Peo Regional Hospital Blood Bank,himachal-pradesh,Kinnaur,31.53932,78.26703,0.0,0.0,0.0,230
+BB546,Kullu Regional Hospital Blood Bank,himachal-pradesh,Kullu,31.95646,77.11166,0.0,0.0,0.0,231
+BB547,Netaji Subhash Chander Bose Zonal Hospital Blood Bank,himachal-pradesh,Mandi,31.71156,76.92721,0.0,0.0,0.0,232
+BB548,Rohru Civil Hospital Blood Bank,himachal-pradesh,Shimla,31.20129,77.75227,0.0,0.0,0.0,233
+BB552,Mahatma Gandhi Medical Services Blood Bank Rampur,himachal-pradesh,Shimla,31.44702,77.62942,0.0,0.0,0.0,235
+BB553,Nahan Regional Hospital Blood Bank,himachal-pradesh,Sirmaur,30.55993,77.29548,0.0,0.0,0.0,236
+BB554,Malhotra Super Speciality Hospital Blood Bank,himachal-pradesh,Solan,30.94916,76.83197,0.0,0.0,0.0,237
+BB557,Una Regional Hospital Blood Bank,himachal-pradesh,Una,31.47858,76.27416,0.0,0.0,0.0,239
+BB558,MMAB memorial District Hospital Blood Bank Anantnag,jammu-and-kashmir,Anantnag,33.72536,75.15316,0.0,0.0,0.0,240
+BB559,Baramulla District Hospital Blood Bank,jammu-and-kashmir,Baramulla,34.20313,74.3654,0.0,0.0,0.0,241
+BB561,Chodana Sub-District Hospital Blood Bank,jammu-and-kashmir,Budgam,33.94293,74.79935,0.0,0.0,0.0,242
+BB562,Doda District Hospital Blood Bank,jammu-and-kashmir,Doda,33.14438,75.5437,0.0,0.0,0.0,243
+BB563,District Hospital Blood Bank Ganderbal,jammu-and-kashmir,Ganderbal,34.19445,74.65215,0.0,0.0,0.0,244
+BB569,Kargil District Hospital (Kargil Ladakh Kashmir Division) Blood Bank,jammu-and-kashmir,Kargil,34.55925,76.12487,0.0,0.0,0.0,246
+BB570,Kathua District Hospital Blood Bank,jammu-and-kashmir,Kathua,32.39082,75.5252,0.0,0.0,0.0,247
+BB571,Kishtwar District Hospital Blood Bank,jammu-and-kashmir,Kishtwar,33.31393,75.76812,0.0,0.0,0.0,248
+BB572,Kulgam District Hospital Blood Bank,jammu-and-kashmir,Kulgam,33.64531,75.02672,0.0,0.0,0.0,249
+BB573,Handwara District Hospital Blood Bank,jammu-and-kashmir,Kupwara,34.39644,74.28476,0.0,0.0,0.0,250
+BB574,SNM Hospital Blood Bank,jammu-and-kashmir,Leh Ladakh,34.1538,77.58021,0.0,0.0,0.0,251
+BB575,Raja Sukhdev Singh District Hospital Poonch,jammu-and-kashmir,Poonch,33.77229,74.09806,0.0,0.0,0.0,252
+BB576,Pulwama District Hospital Blood Bank,jammu-and-kashmir,Pulwama,33.87886,74.90078,0.0,0.0,0.0,253
+BB577,Rajouri District Hospital Blood Bank,jammu-and-kashmir,Rajouri,33.38808,74.31601,0.0,0.0,0.0,254
+BB578,Ramban District Hospital Blood Bank,jammu-and-kashmir,Ramban,33.24206,75.23926,0.0,0.0,0.0,255
+BB579,District Hospital Blood Bank Sambha,jammu-and-kashmir,Samba,32.56052,75.12091,0.0,0.0,0.0,256
+BB580,District Hospital Blood Bank Shopian,jammu-and-kashmir,Shopian,33.72006,74.8338,0.0,0.0,0.0,257
+BB592,Deoghar Sadar Hospital Campus Blood Bank,jharkhand,Deoghar,24.49103,86.694,0.0,0.0,0.0,261
+BB596,Dumka Sadar Hospital Blood Bank,jharkhand,Dumka,24.26726,87.25161,0.0,0.0,0.0,263
+BB599,Garhwa Sadar Hospital Campus Blood Bank,jharkhand,Garhwa,24.15816,83.80205,0.0,0.0,0.0,265
+BB601,Gumla Sadar Hospital Blood Bank,jharkhand,Gumla,23.03468,84.53834,0.0,0.0,0.0,266
+BB602,Hazaribag Sadar Hospital Blood Bank,jharkhand,Hazaribagh,23.9975,85.35642,0.0,0.0,0.0,267
+BB604,Latehar Sadhar Hospital Blood Bank,jharkhand,Latehar,23.74328,84.50598,0.0,0.0,0.0,269
+BB605,Lohardaga Sadar Hospital Blood Bank,jharkhand,Lohardaga,23.44172,84.68532,0.0,0.0,0.0,270
+BB606,Pakur Sadar Hospital Blood Bank,jharkhand,Pakur,24.64769,87.78623,0.0,0.0,0.0,271
+BB607,Palamu Sadar Hospital Blood Bank,jharkhand,Palamu,24.04705,84.06045,0.0,0.0,0.0,272
+BB608,CCL Hospital Blood Bank Ramgarh,jharkhand,Ramgarh,23.64842,85.50935,0.0,0.0,0.0,273
+BB609,Abdur Razzaque Memorial Weavers Hospital (ARAM) Blood Bank,jharkhand,Ranchi,23.45076,85.43707,0.0,0.0,0.0,274
+BB619,Rinchi Trust Hospital Blood Bank,jharkhand,Ranchi,23.34512,85.1106,0.0,0.0,0.0,276
+BB621,Sahebganj Sadar Hospital Blood Bank,jharkhand,Sahebganj,25.23584,87.63422,0.0,0.0,0.0,277
+BB622,Simdega Sadar Hospital Blood Bank,jharkhand,Simdega,22.61498,84.50288,0.0,0.0,0.0,278
+BB623,Chaibasa Sadar Hospital Blood Bank,jharkhand,West Singhbhum,22.55052,85.80548,0.0,0.0,0.0,279
+BB624,Kiriburu Meghahatuburu General Hospital Blood Bank,jharkhand,West Singhbhum,22.10455,85.29157,0.0,0.0,0.0,280
+BB625,TATA (TISCO) Hospital Blood bank,jharkhand,West Singhbhum,22.14587,85.4944,0.0,0.0,0.0,281
+BB629,M/s. Sai Aadhar Hospital Blood Bank,karnataka,Bagalkot,16.32522,75.2894,0.0,0.0,0.0,283
+BB638,Medical College Hospital Blood Bank,karnataka,Bellary,15.15433,76.89659,0.0,0.0,0.0,286
+BB640,MVJ Medical College and Research Hospital Blood Bank,karnataka,Bengaluru Rural,13.07746,77.8115,0.0,0.0,0.0,288
+BB705,The District Surgeon District Hospital Blood Bank,karnataka,Bidar,17.9181,77.515,0.0,0.0,0.0,289
+BB712,District Hospital Blood Bank Chamarajanagar,karnataka,Chamarajanagar,11.92677,76.94147,0.0,0.0,0.0,291
+BB713,Holy Cross Hospital Blood Bank,karnataka,Chamarajanagar,12.12938,77.23359,0.0,0.0,0.0,292
+BB714,Indian Red Cross Society Blood Bank Chikkaballapur,karnataka,Chikkaballapur,13.43804,77.72929,0.0,0.0,0.0,293
+BB715,Holy Cross Hospital Blood Bank,karnataka,Chikkamagaluru,13.33863,75.80355,0.0,0.0,0.0,294
+BB716,Mallegowda District Hospital Blood Bank,karnataka,Chikkamagaluru,13.21802,75.25183,0.0,0.0,0.0,295
+BB717,Sharada Dhanvantari Charitable Hospital Blood Bank,karnataka,Chikkamagaluru,13.42895,75.25429,0.0,0.0,0.0,296
+BB721,Jyothi Hospital Blood Bank,karnataka,Dakshina Kannada,12.99121,75.28826,0.0,0.0,0.0,298
+BB722,M/s. Indian Red Cross Society Blood Bank,karnataka,Dakshina Kannada,13.62848,74.69068,0.0,0.0,0.0,299
+BB731,Srinivasa Institute of Medical Sciences and Research Centre Blood Bank,karnataka,Dakshina Kannada,13.02141,74.79204,0.0,0.0,0.0,300
+BB736,K. V. G Medical College Hospital Blood Bank,karnataka,Dakshina Kannada,12.55332,75.38425,0.0,0.0,0.0,303
+BB759,District Hospital Blood Bank Haveri,karnataka,Haveri,14.78541,75.40306,0.0,0.0,0.0,308
+BB766,District Hospital Blood Bank,karnataka,Kodagu,12.41876,75.74256,0.0,0.0,0.0,310
+BB772,Gopi Blood Bank,karnataka,Koppal,15.43457,76.50183,0.0,0.0,0.0,313
+BB773,Indian Red Cross Koppal District Branch Blood Bank,karnataka,Koppal,15.41916,76.13815,0.0,0.0,0.0,314
+BB774,Adichunchanagiri Hospital and Research Centre Blood Bank,karnataka,Mandya,12.96632,76.72103,0.0,0.0,0.0,315
+BB791,Hutti Gold Hospital Blood Bank,karnataka,Raichur,16.19641,76.65303,0.0,0.0,0.0,318
+BB795,Sri Shakti Blood Bank,karnataka,Raichur,15.76878,76.76384,0.0,0.0,0.0,321
+BB796,M/S Indian Red Cross Society,karnataka,Ramanagara,12.54185,77.34041,0.0,0.0,0.0,322
+BB812,K. L. E. Society Blood Bank,karnataka,Uttara Kannada,14.6618,74.30981,0.0,0.0,0.0,327
+BB813,District Hospital Blood Bank Karwar,karnataka,Uttara Kannada,14.81728,74.12968,0.0,0.0,0.0,328
+BB814,Pandit General Hospital Blood Bank,karnataka,Uttara Kannada,14.32773,74.49153,0.0,0.0,0.0,329
+BB815,The Uttara Kannada Blood Bank and Health Services Society,karnataka,Uttara Kannada,14.42928,74.40245,0.0,0.0,0.0,330
+BB816,Shripad Hegde Kadave Institute of Medical Sciences Blood Bank,karnataka,Uttara Kannada,14.63239,74.84834,0.0,0.0,0.0,331
+BB817,M/s. Indian Red Cross Society Blood Bank Yadgir,karnataka,Yadgir,16.75279,77.1387,0.0,0.0,0.0,332
+BB828,Little Flower Hospital Blood Bank,kerala,Ernakulam,10.1904,76.39029,0.0,0.0,0.0,335
+BB843,Mar Baselius Medical Mission Hospital Blood Bank,kerala,Ernakulam,10.06449,76.62227,0.0,0.0,0.0,337
+BB846,Nirmala Medical Center Blood Bank,kerala,Ernakulam,9.9822,76.58512,0.0,0.0,0.0,338
+BB849,Morning Star Medical Centre Blood Bank,kerala,Idukki,10.01188,76.9585,0.0,0.0,0.0,339
+BB850,Saint Johns Hospital Blood Bank,kerala,Idukki,9.74686,76.11025,0.0,0.0,0.0,340
+BB851,Mundakkayam Medical Trust (M.M.T.) Hospital Blood Bank,kerala,Idukki,9.53516,76.90895,0.0,0.0,0.0,341
+BB852,Tata Tea Limited General Hospital Blood Bank,kerala,Idukki,10.08859,76.05619,0.0,0.0,0.0,342
+BB854,District Hospital Blood Bank,kerala,Idukki,9.84809,76.9606,0.0,0.0,0.0,344
+BB859,Kannur Medical college and Hospital (Prestige educational Trust) Blood Bank,kerala,Kannur,11.87577,75.49925,0.0,0.0,0.0,346
+BB862,District Hospital Blood Bank,kerala,Kannur,11.86122,75.37064,0.0,0.0,0.0,347
+BB871,Community Health Centre (T.H.Q) - General Hospital Blood Bank,kerala,Kasaragod,12.5034,74.99173,0.0,0.0,0.0,351
+BB878,Taluk Head Quarters Hospital Blood Bank,kerala,Kollam,9.00435,76.77563,0.0,0.0,0.0,353
+BB880,Padmavathy Medical Foundation Blood Bank,kerala,Kollam,9.05331,76.63303,0.0,0.0,0.0,354
+BB888,Mary Queens Mission Hospital Blood Bank,kerala,Kottayam,9.55811,76.81389,0.0,0.0,0.0,355
+BB893,Saint Thomas Hospital Blood Bank,kerala,Kottayam,7.47564,76.5472,0.0,0.0,0.0,357
+BB895,Holy Ghost Mission Hospital Blood Bank,kerala,Kottayam,9.75725,76.49979,0.0,0.0,0.0,359
+BB902,Indo American Hospital - Brainand Spine Centre Blood Bank,kerala,Kottayam,9.79118,76.37708,0.0,0.0,0.0,360
+BB904,MMC Hospital Blood Bank,kerala,Kozhikode,11.43374,75.77529,0.0,0.0,0.0,361
+BB920,Badagara sahakarana Asupathri Limited Blood Bank,kerala,Kozhikode,11.58971,75.59526,0.0,0.0,0.0,364
+BB931,Taluk Head Quarters Hospital,kerala,Malappuram,10.44582,75.92161,0.0,0.0,0.0,369
+BB932,Karuna Medical College Hospital Blood Bank,kerala,Palakkad,10.68037,76.77577,0.0,0.0,0.0,370
+BB933,Mother Care Hospital Blood Bank,kerala,Palakkad,10.98344,76.42323,0.0,0.0,0.0,371
+BB934,Valluvanad Hospital Blood Bank,kerala,Palakkad,10.77458,76.36053,0.0,0.0,0.0,372
+BB944,General Hospital Blood Bank,kerala,Pathanamthitta,9.26582,76.78236,0.0,0.0,0.0,376
+BB950,NIMS Hospital Blood Bank,kerala,Thiruvananthapuram,8.30492,76.5434,0.0,0.0,0.0,377
+BB971,Mary Immaculate Mission Hospital Blood Bank,kerala,Thrissur,10.50889,76.05776,0.0,0.0,0.0,382
+BB972,Modern Medical Blood Bank,kerala,Thrissur,10.2339,76.19422,0.0,0.0,0.0,383
+BB986,M/s. Ahalia International Foundation Blood Bank,kerala,Thrissur,10.82175,75.88206,0.0,0.0,0.0,386
+BB991,District Hospital Blood Bank,kerala,Wayanad,11.80063,76.00192,0.0,0.0,0.0,388
+BB993,Government Taluk Head Quarters Hospital Blood Bank,kerala,Wayanad,11.66254,76.25741,0.0,0.0,0.0,390
+BB994,District Hospital Blood Bank,madhya-pradesh,Alirajpur,22.18445,74.21196,0.0,0.0,0.0,391
+BB998,District Hospital Blood Bank,madhya-pradesh,Barwani,22.02134,74.54108,0.0,0.0,0.0,393
+BB999,District Hospital Blood Bank,madhya-pradesh,Betul,21.90338,77.89808,0.0,0.0,0.0,394
+BB1000,Padhar Hospital Blood Bank,madhya-pradesh,Betul,22.05519,77.86498,0.0,0.0,0.0,395
+BB1001,WCL Hospital Blood Bank Pathakheda,madhya-pradesh,Betul,22.12516,78.1423,0.0,0.0,0.0,396
+BB1002,District Hospital Blood Bank,madhya-pradesh,Bhind,26.56601,78.78268,0.0,0.0,0.0,397
+BB1021,Chandubhai Somabhai Patel Blood Bank,madhya-pradesh,Burhanpur,21.304,76.224,0.0,0.0,0.0,400
+BB1022,District Hospital,madhya-pradesh,Burhanpur,21.20482,76.11421,0.0,0.0,0.0,401
+BB1023,District Hospital Blood Bank,madhya-pradesh,Chhatarpur,24.90762,79.58421,0.0,0.0,0.0,402
+BB1024,WCL Badkui Hospital Chhindwara Blood Bank,madhya-pradesh,Chhindwara,22.11351,78.43095,0.0,0.0,0.0,403
+BB1025,District Hospital Blood Bank,madhya-pradesh,Chhindwara,22.05264,78.93722,0.0,0.0,0.0,404
+BB1026,District Hospital Blood Bank,madhya-pradesh,Damoh,23.83314,79.44075,0.0,0.0,0.0,405
+BB1027,District Hospital Blood Bank,madhya-pradesh,Datia,25.68724,78.44222,0.0,0.0,0.0,406
+BB1032,District Hospital Blood Bank,madhya-pradesh,Dindori,22.94603,81.07528,0.0,0.0,0.0,409
+BB1033,Deep Blood Bank,madhya-pradesh,East Nimar,22.87405,74.73371,0.0,0.0,0.0,410
+BB1034,District Hospital Blood Bank,madhya-pradesh,East Nimar,21.82454,76.34302,0.0,0.0,0.0,411
+BB1037,Indian Red Cross Society (IRCS) Blood Bank,madhya-pradesh,Gwalior,25.53175,78.20032,0.0,0.0,0.0,413
+BB1043,District Hospital Blood Bank,madhya-pradesh,Harda,22.34063,77.09304,0.0,0.0,0.0,415
+BB1044,District Hospital Blood Bank,madhya-pradesh,Hoshangabad,22.45272,77.43071,0.0,0.0,0.0,416
+BB1045,Civil Hospital Itarsi Blood Bank,madhya-pradesh,Hoshangabad,22.36198,77.45128,0.0,0.0,0.0,417
+BB1064,Rani Durgawati Hospital Blood Bank,madhya-pradesh,Jabalpur,23.10043,79.5657,0.0,0.0,0.0,420
+BB1065,District Hospital,madhya-pradesh,Jhabua,22.77307,74.59142,0.0,0.0,0.0,421
+BB1066,Jivan Jyoti Hospital Blood Bank,madhya-pradesh,Jhabua,22.9134,74.53969,0.0,0.0,0.0,422
+BB1067,District Hospital Blood Bank,madhya-pradesh,Katni,23.83258,80.39196,0.0,0.0,0.0,423
+BB1068,District Hospital Blood Bank,madhya-pradesh,Khargone,21.83193,75.62861,0.0,0.0,0.0,424
+BB1069,District Hospital Blood Bank Mandla,madhya-pradesh,Mandla,22.59628,80.37039,0.0,0.0,0.0,425
+BB1070,District Hospital Blood Bank,madhya-pradesh,Mandsaur,24.06924,75.07183,0.0,0.0,0.0,426
+BB1071,Jain Pathology Laboratory and Blood Bank,madhya-pradesh,Mandsaur,24.555,75.17277,0.0,0.0,0.0,427
+BB1072,District Hospital Blood Bank,madhya-pradesh,Morena,26.496,77.99867,0.0,0.0,0.0,428
+BB1073,Jindal Blood Bank,madhya-pradesh,Morena,26.70481,78.22653,0.0,0.0,0.0,429
+BB1074,District Hospital Narsinghpur Blood Bank,madhya-pradesh,Narsinghpur,22.56574,79.11081,0.0,0.0,0.0,430
+BB1075,Indian Red Cross Society (IRCS) Blood Bank,madhya-pradesh,Neemuch,24.46027,74.87483,0.0,0.0,0.0,431
+BB1076,District Hospital Blood Bank,madhya-pradesh,Panna,24.71208,80.18122,0.0,0.0,0.0,432
+BB1077,District Hospital Blood Bank,madhya-pradesh,Raisen,23.33349,77.78043,0.0,0.0,0.0,433
+BB1078,District Hospital Blood Bank,madhya-pradesh,Rajgarh,24.00976,76.73207,0.0,0.0,0.0,434
+BB1081,S. S. Medical College Blood Bank,madhya-pradesh,Rewa,24.53179,81.29979,0.0,0.0,0.0,436
+BB1082,Bhagyoday Tirth Hospital Blood Bank,madhya-pradesh,Sagar,23.85106,78.72247,0.0,0.0,0.0,437
+BB1083,District Hospital Blood Bank,madhya-pradesh,Sagar,23.49216,78.45182,0.0,0.0,0.0,438
+BB1084,Sadguru Blood Bank Chitrakoot,madhya-pradesh,Satna,25.09504,80.51597,0.0,0.0,0.0,439
+BB1087,District Hospital Blood Bank,madhya-pradesh,Sehore,23.19839,77.08127,0.0,0.0,0.0,441
+BB1088,District Hospital Blood Bank Seoni,madhya-pradesh,Seoni,22.05439,79.33032,0.0,0.0,0.0,442
+BB1089,Burhar Central Hospital of South Eastern Coal Fields Limited Blood Bank,madhya-pradesh,Shahdol,23.18591,81.57138,0.0,0.0,0.0,443
+BB1090,District Hospital Blood Bank,madhya-pradesh,Shahdol,23.30792,81.3529,0.0,0.0,0.0,444
+BB1091,Murlidhar Kripa Hospital Blood Bank,madhya-pradesh,Shajapur,23.25066,76.13743,0.0,0.0,0.0,445
+BB1092,District Hospital Blood Bank,madhya-pradesh,Shajapur,23.42111,76.27469,0.0,0.0,0.0,446
+BB1093,District hospital sheopur,madhya-pradesh,Sheopur,25.67607,76.71165,0.0,0.0,0.0,447
+BB1094,District Hospital Blood Bank,madhya-pradesh,Shivpuri,25.25408,77.39027,0.0,0.0,0.0,448
+BB1095,District Hospital Blood Bank,madhya-pradesh,Sidhi,24.41339,81.88065,0.0,0.0,0.0,449
+BB1096,Nehru Jan shatabdi Chikitsalaya Blood Bank,madhya-pradesh,Singrauli,24.06319,82.38307,0.0,0.0,0.0,450
+BB1097,Red Cross Blood Bank,madhya-pradesh,Singrauli,24.09255,82.65599,0.0,0.0,0.0,451
+BB1098,District Hospital Blood Bank,madhya-pradesh,Tikamgarh,24.45241,78.50069,0.0,0.0,0.0,452
+BB1099,Grassim Hospital and Blood Bank,madhya-pradesh,Ujjain,23.44657,75.40749,0.0,0.0,0.0,453
+BB1101,District Hospital Blood Bank,madhya-pradesh,Ujjain,23.10528,75.46382,0.0,0.0,0.0,454
+BB1104,District Hospital Blood Bank,madhya-pradesh,Umaria,23.57111,80.39081,0.0,0.0,0.0,456
+BB1105,District Hospital Blood Bank,madhya-pradesh,Vidisha,23.52019,77.80835,0.0,0.0,0.0,457
+BB1107,Arpan Blood Bank,maharashtra,Ahmednagar,19.56931,74.20653,0.0,0.0,0.0,458
+BB1115,Pravara Medical Trust Blood Bank - Pravara Rural Hospital and Medical Dental College Loni (BK),maharashtra,Ahmednagar,19.57895,74.45613,0.0,0.0,0.0,460
+BB1116,Rotary Blood Bank - Rahuri Charitable Trust,maharashtra,Ahmednagar,19.41963,74.65553,0.0,0.0,0.0,461
+BB1117,Sanjeevani Blood Bank Kopargaon,maharashtra,Ahmednagar,19.88042,74.47087,0.0,0.0,0.0,462
+BB1118,Shri Sainath Blood Bank,maharashtra,Ahmednagar,19.76314,74.47058,0.0,0.0,0.0,463
+BB1129,Dr. Late Sadanadaji Burma Memorial Blood Bank,maharashtra,Amravati,21.29892,77.51832,0.0,0.0,0.0,468
+BB1131,Sant Gadgebaba Blood Bank and Component Centre Badnera,maharashtra,Amravati,20.79412,77.70955,0.0,0.0,0.0,469
+BB1146,Vaidynath Blood Bank,maharashtra,Beed,18.84266,76.53506,0.0,0.0,0.0,473
+BB1147,Civil Hospital Bhandara Blood Bank,maharashtra,Bhandara,21.16202,79.65973,0.0,0.0,0.0,474
+BB1150,Dr. Murlidhar Kharche Memorial Jeevan Jyoti Blood Bank,maharashtra,Buldhana,20.88649,76.20717,0.0,0.0,0.0,476
+BB1151,Government Hospital Blood Bank,maharashtra,Buldhana,20.70841,76.5667,0.0,0.0,0.0,477
+BB1153,Saibai Mote General Hospital Blood Bank,maharashtra,Buldhana,20.79587,76.69669,0.0,0.0,0.0,478
+BB1156,Christanand Education Society Blood Bank,maharashtra,Chandrapur,20.60772,79.85576,0.0,0.0,0.0,479
+BB1163,Late Shri Mukeshbai Patel Blood Bank,maharashtra,Dhule,21.45858,74.96109,0.0,0.0,0.0,482
+BB1167,Civil Surgeon - General Hospital Blood Bank,maharashtra,Gadchiroli,20.17021,79.98291,0.0,0.0,0.0,483
+BB1168,Sub-District Rural Hospital Blood Bank,maharashtra,Gadchiroli,19.41467,80.00375,0.0,0.0,0.0,484
+BB1169,Bai Gangabai Ladies Hospital Blood Bank,maharashtra,Gondia,21.45965,80.19683,0.0,0.0,0.0,485
+BB1170,Civil Surgeon - District General Hospital Blood Bank,maharashtra,Hingoli,19.72179,77.15449,0.0,0.0,0.0,486
+BB1176,Jeevan Surabhi Blood Bank,maharashtra,Jalgaon,20.46464,74.99886,0.0,0.0,0.0,489
+BB1177,Jeevanshri Raktapedi,maharashtra,Jalgaon,21.0454,75.06393,0.0,0.0,0.0,490
+BB1182,Noor Hospital Blood Bank,maharashtra,Jalna,19.86088,75.66445,0.0,0.0,0.0,492
+BB1184,Annasaheb Galatge Lions Blood Bank,maharashtra,Kolhapur,16.18645,74.37256,0.0,0.0,0.0,493
+BB1189,Mahatma Gandhi Hospital Blood Bank,maharashtra,Kolhapur,16.86221,74.24003,0.0,0.0,0.0,495
+BB1199,IRCS Nagappa Amberkhane Blood Bank,maharashtra,Latur,18.39231,77.10698,0.0,0.0,0.0,498
+BB1285,Hindustan Aeronautics Limited Blood Bank,maharashtra,Nashik,20.1059,73.93193,0.0,0.0,0.0,506
+BB1295,SMBT Institute of Medical Science and Research Centre - Blood Bank and Component,maharashtra,Nashik,19.76062,73.76985,0.0,0.0,0.0,507
+BB1297,Shri Krishna Blood Bank,maharashtra,Osmanabad,17.83503,76.62215,0.0,0.0,0.0,508
+BB1298,"Civil Surgeon, General Hospital Blood Bank",maharashtra,Osmanabad,18.18077,76.03474,0.0,0.0,0.0,509
+BB1301,Indian Red Cross Society Blood Bank,maharashtra,Pune,18.1526,74.575,0.0,0.0,0.0,511
+BB1307,Chakan Blood Bank,maharashtra,Pune,18.7623,73.86087,0.0,0.0,0.0,513
+BB1312,Garware Blood Bank - Talegaon Rural Hospital,maharashtra,Pune,18.73532,73.67598,0.0,0.0,0.0,514
+BB1332,District Civil Surgeon Blood Bank,maharashtra,Raigad,18.64078,72.87172,0.0,0.0,0.0,515
+BB1333,Kakasaheb Chitle Memorial Centre Sanchalit - Jankalyan Blood Bank,maharashtra,Raigad,18.08274,73.42265,0.0,0.0,0.0,516
+BB1341,Shree Swami Samarth Blood Bank,maharashtra,Ratnagiri,17.39991,73.54745,0.0,0.0,0.0,519
+BB1347,Jeevan Rekha Charitable Trust Blood Bank,maharashtra,Sangli,17.04927,75.20485,0.0,0.0,0.0,521
+BB1351,Rajaram Bapu Blood Bank,maharashtra,Sangli,17.0484,74.25112,0.0,0.0,0.0,522
+BB1357,Instutute of Medical Science and Research Blood Bank and Blood Component Seperation Unit,maharashtra,Satara,17.43121,74.54936,0.0,0.0,0.0,523
+BB1362,Phaltan Medical Foundation Blood Bank,maharashtra,Satara,17.99232,74.42537,0.0,0.0,0.0,526
+BB1365,Civil Surgeon - General Hospital Blood Bank,maharashtra,Sindhudurg,16.12019,73.68956,0.0,0.0,0.0,527
+BB1366,"Cottage Hospital Blood Bank, Sawantwadi",maharashtra,Sindhudurg,15.90278,73.82354,0.0,0.0,0.0,528
+BB1372,Indian Red Cross Society - Sarjubai Bansila Bajaj Blood Bank,maharashtra,Solapur,17.56294,75.26559,0.0,0.0,0.0,529
+BB1378,Tarapur Atomic Power Station Hospital Blood Bank,maharashtra,Thane,19.81309,72.74352,0.0,0.0,0.0,531
+BB1388,"Maharashtra Blood Bank, Component and Apheresis Centre",maharashtra,Thane,19.6929,72.77264,0.0,0.0,0.0,532
+BB1401,Vijayee Blood Bank,maharashtra,Thane,19.35871,72.81184,0.0,0.0,0.0,534
+BB1414,District Hospital Blood Bank,manipur,Churachandpur,24.34345,93.69291,0.0,0.0,0.0,539
+BB1418,District Hospital Blood Bank and Transfusion Unit,manipur,Thoubal,24.62498,94.01303,0.0,0.0,0.0,541
+BB1424,Tura Civil Hospital Blood Bank,meghalaya,West Garo Hills,25.51481,90.20348,0.0,0.0,0.0,543
+BB1425,Jowai Civil Hospital Blood Bank,meghalaya,West Jaintia Hills,25.43852,92.19933,0.0,0.0,0.0,544
+BB1428,District Hospital Blood Bank Champhai,mizoram,Champhai,23.48105,93.3097,0.0,0.0,0.0,546
+BB1429,District Hospital Blood Bank Kolasib,mizoram,Kolasib,24.23142,92.6768,0.0,0.0,0.0,547
+BB1430,District Hospital Blood Bank Lawngtlai,mizoram,Lawngtlai,22.53668,92.88818,0.0,0.0,0.0,548
+BB1433,District Hospital Blood Bank Mamit,mizoram,Mamit,23.90937,92.49486,0.0,0.0,0.0,550
+BB1434,Civil Hospital Blood Bank Saiha,mizoram,Saiha,22.48839,92.98267,0.0,0.0,0.0,551
+BB1435,"J N Hospital Blood Bank,Serchhip",mizoram,Serchhip,23.30795,92.85637,0.0,0.0,0.0,552
+BB1440,Dr. Imkongliba Memorial District Hospital Blood Bank,nagaland,Mokokchung,26.31868,94.52071,0.0,0.0,0.0,555
+BB1441,District Hospital Blood Bank,nagaland,Mon,26.71647,95.02633,0.0,0.0,0.0,556
+BB1442,District Hospital Blood Bank,nagaland,Phek,25.71007,94.46448,0.0,0.0,0.0,557
+BB1443,District Hospital Blood Bank,nagaland,Tuensang,26.25344,94.81788,0.0,0.0,0.0,558
+BB1444,District Hospital Blood Bank,nagaland,Wokha,26.07901,94.25921,0.0,0.0,0.0,559
+BB1445,District Hospital Blood Bank,nagaland,Zunheboto,26.00296,94.52358,0.0,0.0,0.0,560
+BB1447,"Odisha Red Cross Blood Bank, Angul",odisha,Angul,20.92114,84.85679,0.0,0.0,0.0,561
+BB1448,"Odisha Red Cross Blood Bank, SDH, Athamallik",odisha,Angul,21.20618,84.93462,0.0,0.0,0.0,562
+BB1451,"Odisha Red Cross Blood Bank, Balangir",odisha,Balangir,20.70744,83.49486,0.0,0.0,0.0,564
+BB1452,"Biju Padhnaik Red Cross Blood Bank, CHC Kantabanji",odisha,Balangir,20.46894,82.9149,0.0,0.0,0.0,565
+BB1453,"Odisha Red Cross Blood Bank, Patnagarh",odisha,Balangir,20.70849,83.12955,0.0,0.0,0.0,566
+BB1454,"Odisha Red Cross Blood Bank, SDH, Titlagarh",odisha,Balangir,20.28949,83.15164,0.0,0.0,0.0,567
+BB1457,"Odisha Red Cross Blood Bank, Nilagiri",odisha,Balasore,21.46344,86.77555,0.0,0.0,0.0,569
+BB1460,"Odisha Red Cross Blood Bank, SDH, Padampur",odisha,Bargarh,20.99956,83.06098,0.0,0.0,0.0,571
+BB1461,"Odisha Red Cross Blood Bank, Bhadrak",odisha,Bhadrak,21.06525,86.50246,0.0,0.0,0.0,572
+BB1462,"Odisha Red Cross Blood Bank, Boudh",odisha,Boudh,20.84031,84.3216,0.0,0.0,0.0,573
+BB1465,"Odisha Red Cross Blood Bank, Deogarh",odisha,Deogarh,21.5343,84.72972,0.0,0.0,0.0,575
+BB1466,"Odisha Red Cross Blood Bank, Dhenkanal",odisha,Dhenkanal,20.66331,85.59707,0.0,0.0,0.0,576
+BB1467,"Odisha Red Cross Blood, Paralakhemundi",odisha,Gajapati,18.77148,84.09687,0.0,0.0,0.0,577
+BB1468,Maharaja Krishna Chandra Gajapati Medical College Blood bank,odisha,Ganjam,19.31243,84.81024,0.0,0.0,0.0,578
+BB1469,"Odisha Red Cross Blood Bank, SDH, Bhanjanagar",odisha,Ganjam,19.93656,84.57996,0.0,0.0,0.0,579
+BB1470,"Odisha Red Cross Blood Bank, Jagatsinghpur",odisha,Jagatsinghpur,20.25166,86.17978,0.0,0.0,0.0,580
+BB1471,"Odisha Red Cross Blood Bank, Jajpur",odisha,Jajpur,20.84946,86.32896,0.0,0.0,0.0,581
+BB1474,"Odisha Red Cross Blood Bank, Jharsuguda",odisha,Jharsuguda,21.85382,84.01724,0.0,0.0,0.0,583
+BB1475,Sardar Rajas Medical College Hospital Blood Bank,odisha,Kalahandi,19.89062,83.01469,0.0,0.0,0.0,584
+BB1476,District Head Quarters Hospital Blood Bank Bhawanipatna,odisha,Kalahandi,19.90194,83.15998,0.0,0.0,0.0,585
+BB1477,"Odisha Red Cross Blood Bank, SDH, Dharmagarh",odisha,Kalahandi,19.86935,82.78112,0.0,0.0,0.0,586
+BB1478,"Odisha Red Cross Blood Bank, SDH, Baliguda",odisha,Kandhamal,20.20031,83.90989,0.0,0.0,0.0,587
+BB1479,"Odisha Red Cross Blood Bank, Kandhamal",odisha,Kandhamal,20.4858,84.22472,0.0,0.0,0.0,588
+BB1480,District Head Quarters Hospital Blood Bank Kendrapara,odisha,Kendrapara,20.50215,86.42593,0.0,0.0,0.0,589
+BB1494,"Odisha Red Cross Blood Bank, Khurda",odisha,Khordha,20.05539,84.94667,0.0,0.0,0.0,593
+BB1496,"Red Cross Blood Bank, SDH, Koraputk",odisha,Koraput,18.86315,82.57251,0.0,0.0,0.0,595
+BB1497,"Odisha Red Cross Blood Bank, Koraput",odisha,Koraput,18.80561,82.70502,0.0,0.0,0.0,596
+BB1498,Asha Kiran Society Blood Bank,odisha,Koraput,18.59915,82.60174,0.0,0.0,0.0,597
+BB1500,"Odisha Red Cross Blood Bank, Malkangiri",odisha,Malkangiri,18.58197,82.07592,0.0,0.0,0.0,598
+BB1501,"Odisha Red Cross Blood Bank, Baripada",odisha,Mayurbhanj,21.93123,86.72784,0.0,0.0,0.0,599
+BB1502,"Odisha red Cross Blood Bank, Karanjia, Mayurbhanj",odisha,Mayurbhanj,21.76429,85.97333,0.0,0.0,0.0,600
+BB1503,"Odisha Red Cross Blood Bank, SDH, Rairangpur",odisha,Mayurbhanj,22.26928,86.15642,0.0,0.0,0.0,601
+BB1504,"Odisha Red Cross Blood Bank, SDH, Udala",odisha,Mayurbhanj,21.57656,86.5651,0.0,0.0,0.0,602
+BB1507,"Odisha Red Cross Blood Bank, Nayagarh",odisha,Nayagarh,20.12806,85.10741,0.0,0.0,0.0,604
+BB1508,Evangelical Hospital Blood Bank,odisha,Nuapada,20.30885,82.74179,0.0,0.0,0.0,605
+BB1509,"Odisha Red Cross Blood Bank, Nuapada",odisha,Nuapada,20.80885,82.53411,0.0,0.0,0.0,606
+BB1510,Aharya Harihar Red Cross Blood Bank,odisha,Puri,19.81438,85.82965,0.0,0.0,0.0,607
+BB1511,Christian Hospital Blood Bank,odisha,Rayagada,19.51666,83.50669,0.0,0.0,0.0,608
+BB1512,"Odisha Red Cross Blood bank, SDH, Gunupur",odisha,Rayagada,19.07155,83.80926,0.0,0.0,0.0,609
+BB1514,"Odisha Red Cross Blood Bank, SDH, Kuchinda",odisha,Sambalpur,21.74598,84.35076,0.0,0.0,0.0,611
+BB1517,"Odisha Red Cross Blood Bank, Subarnapur",odisha,Sonepur,20.84365,83.907,0.0,0.0,0.0,612
+BB1523,"Odisha Red Cross Blood Bank, SDH, Bonai",odisha,Sundergarh,21.81993,84.95653,0.0,0.0,0.0,614
+BB1524,"Odisha Red Cross Blood Bank, Sundergarh",odisha,Sundergarh,22.11826,84.03616,0.0,0.0,0.0,615
+BB1527,Pondicherry Institute of Medical Sciences Blood Bank,puducherry,Puducherry,12.04697,79.85474,0.0,0.0,0.0,617
+BB1540,Yanam Old Age Home Blood Bank,puducherry,Puducherry,16.72945,82.21689,0.0,0.0,0.0,620
+BB1541,Ajnala Civil Hospital Blood bank,punjab,Amritsar,31.80915,74.26834,0.0,0.0,0.0,621
+BB1548,Guru Tej Rasila Charitable Hospital,punjab,Amritsar,31.64021,75.18009,0.0,0.0,0.0,623
+BB1552,Maharaj Sawan Singh Charitable Hospital Blood Bank,punjab,Amritsar,31.51633,75.28801,0.0,0.0,0.0,624
+BB1553,Barnala Civil Hospital Blood Bank,punjab,Barnala,30.37562,75.54488,0.0,0.0,0.0,625
+BB1559,Rampura Phul Civil Hospital Blood Bank,punjab,Bathinda,30.27457,75.23561,0.0,0.0,0.0,627
+BB1560,Guru Gobind Singh Medical College Blood Bank Hospital Blood Bank,punjab,Faridkot,30.68126,74.74761,0.0,0.0,0.0,628
+BB1561,Kotkapura Civil Hospital Blood Bank,punjab,Faridkot,30.58471,74.82015,0.0,0.0,0.0,629
+BB1563,Abohar Civil Hospital Blood Bank,punjab,Fazilka,30.14167,74.19852,0.0,0.0,0.0,630
+BB1564,Fazilka Civil Hospital Blood Bank,punjab,Fazilka,30.40713,74.02469,0.0,0.0,0.0,631
+BB1567,Batala Civil Hospital Blood Bank,punjab,Gurdaspur,31.80853,75.21545,0.0,0.0,0.0,633
+BB1568,Gurdaspur Civil Hospital Blood Bank,punjab,Gurdaspur,32.04084,75.40333,0.0,0.0,0.0,634
+BB1570,Dasuya Civil Hospital Blood Bank,punjab,Hoshiarpur,31.80726,75.66554,0.0,0.0,0.0,636
+BB1571,Garhshankar Civil Hospital Blood Bank,punjab,Hoshiarpur,31.21326,76.15116,0.0,0.0,0.0,637
+BB1575,Sant Baba Rangi Ram Ji Charitable Hospital Blood Bank,punjab,Hoshiarpur,31.67519,75.6571,0.0,0.0,0.0,639
+BB1577,Mukerian Civil Hospital Blood Bank,punjab,Hoshiarpur,31.95008,75.61362,0.0,0.0,0.0,640
+BB1594,Nakodar Civil Hospital Blood Bank,punjab,Jalandhar,31.12801,75.47587,0.0,0.0,0.0,642
+BB1595,Phillaur Civil Hospital Blood Bank,punjab,Jalandhar,31.02158,75.79001,0.0,0.0,0.0,643
+BB1596,Kapurthala Civil Hospital Blood Bank,punjab,Kapurthala,31.37571,75.382,0.0,0.0,0.0,644
+BB1614,Mansa Civil Hospital Blood Bank,punjab,Mansa,29.98537,75.40316,0.0,0.0,0.0,647
+BB1615,Moga Civil Hospital Blood Bank,punjab,Moga,30.81167,75.16935,0.0,0.0,0.0,648
+BB1618,"Blood Donors Council, Blood Bank",punjab,Nawanshahr,31.11854,76.11685,0.0,0.0,0.0,650
+BB1619,Chintpurni Medical College and Hospital Blood Bank,punjab,Pathankot,32.30606,75.75786,0.0,0.0,0.0,651
+BB1621,Nabha Civil Hospital Blood Bank,punjab,Patiala,30.371,76.14613,0.0,0.0,0.0,652
+BB1622,Gian Sagar Medical College and Hospital Blood Bank,punjab,Patiala,30.52896,76.67146,0.0,0.0,0.0,653
+BB1626,Rajpura Civil Hospital Blood Bank,punjab,Patiala,30.47844,76.58407,0.0,0.0,0.0,655
+BB1627,Ananadpur Sahib Civil Hospital Blood Bank,punjab,Rupnagar,31.23897,76.4946,0.0,0.0,0.0,656
+BB1628,BBMB Hospital Blood Bank,punjab,Rupnagar,31.38279,76.36411,0.0,0.0,0.0,657
+BB1629,Rupnagar Civil Hospital Blood Bank,punjab,Rupnagar,30.96605,76.52516,0.0,0.0,0.0,658
+BB1641,Muktsar Civil Hospital Blood Bank,punjab,Sri Muktsar Sahib,30.46329,74.53717,0.0,0.0,0.0,662
+BB1642,Patti Civil Hospital Blood Bank,punjab,Tarn Taran,31.27462,74.85339,0.0,0.0,0.0,663
+BB1646,Military Hospital Blood Bank,rajasthan,Ajmer,26.31027,74.72709,0.0,0.0,0.0,665
+BB1650,Amrit Kaur Government Hospital Blood Bank,rajasthan,Ajmer,26.08064,74.32643,0.0,0.0,0.0,667
+BB1651,Government Y.N. Hospital Blood Bank,rajasthan,Ajmer,26.58164,74.86101,0.0,0.0,0.0,668
+BB1652,Rajiv Gandhi Government General Hospital Blood Bank,rajasthan,Alwar,27.57247,76.45879,0.0,0.0,0.0,669
+BB1653,Seth Makhan Lal Mahawar Charitable Blood Bank Society,rajasthan,Alwar,27.55089,76.61522,0.0,0.0,0.0,670
+BB1654,Kailash Hospital Blood Bank,rajasthan,Alwar,27.88214,76.28611,0.0,0.0,0.0,671
+BB1655,Mahatma Gandhi Government Hospital Blood Bank,rajasthan,Banswara,23.55325,74.44249,0.0,0.0,0.0,672
+BB1656,"Baran Government Hospital, Blood bank",rajasthan,Baran,25.10438,76.50339,0.0,0.0,0.0,673
+BB1657,Barmer Government Hospital Blood Bank,rajasthan,Barmer,25.7505,71.39635,0.0,0.0,0.0,674
+BB1666,P.B.S.S.General Hospital Blood Bank,rajasthan,Bundi,25.44148,75.64414,0.0,0.0,0.0,678
+BB1667,Shree Sanwaliyaji Government Hospital Blood Bank,rajasthan,Chittorgarh,24.61915,74.68181,0.0,0.0,0.0,679
+BB1668,Rajasthan Atomic Power Station (R.A.P.S) Hospital Blood Bank,rajasthan,Chittorgarh,24.87368,75.6179,0.0,0.0,0.0,680
+BB1669,Government D.B. Hospital Blood Bank,rajasthan,Churu,28.28984,74.95976,0.0,0.0,0.0,681
+BB1670,Ratangarh General Hospital Blood Bank,rajasthan,Churu,28.07138,74.62301,0.0,0.0,0.0,682
+BB1671,Lion Charitable Trust Blood Bank,rajasthan,Churu,27.69718,74.47197,0.0,0.0,0.0,683
+BB1672,Shri Ramkaran Joshi General Hospital Bood bank,rajasthan,Dausa,26.88395,76.33577,0.0,0.0,0.0,684
+BB1673,Dholpur Government Hospital,rajasthan,Dholpur,26.69008,77.89964,0.0,0.0,0.0,685
+BB1674,Shri Haridev Joshi General Hospital Blood bank,rajasthan,Dungarpur,23.85885,73.71089,0.0,0.0,0.0,686
+BB1675,Life Line Blood Bank,rajasthan,Hanumangarh,29.60917,74.29791,0.0,0.0,0.0,687
+BB1687,National Institute of Medical Sciences Blood bank,rajasthan,Jaipur,27.19234,75.95482,0.0,0.0,0.0,689
+BB1695,Government BDM Hospital Blood Bank,rajasthan,Jaipur,27.70202,76.19091,0.0,0.0,0.0,690
+BB1697,Jalore Government General Hospital Blood Bank,rajasthan,Jalore,25.2351,72.50402,0.0,0.0,0.0,691
+BB1698,Jhalawar Hospital and Medical College Blood Bank,rajasthan,Jhalawar,24.58677,76.16062,0.0,0.0,0.0,692
+BB1699,Birla Sarvajanik Hospital Blood Bank,rajasthan,Jhunjhunu,28.35878,75.60402,0.0,0.0,0.0,693
+BB1700,Government B.D.K. Hospital Blood Bank,rajasthan,Jhunjhunu,28.11664,75.3955,0.0,0.0,0.0,694
+BB1704,Kalapurnam General Hospital Khichan Blood Bank,rajasthan,Jodhpur,27.11541,72.4152,0.0,0.0,0.0,696
+BB1710,Government Hospital Karauli Blood Bank,rajasthan,Karauli,26.50085,77.02583,0.0,0.0,0.0,697
+BB1718,Government Hospital Blood Bank,rajasthan,Nagaur,27.20799,73.73722,0.0,0.0,0.0,699
+BB1719,Government Bangar Hospital Blood Bank,rajasthan,Pali,25.77637,73.33218,0.0,0.0,0.0,700
+BB1720,Government Hospital Blood Bank,rajasthan,Pali,25.92223,73.66336,0.0,0.0,0.0,701
+BB1721,Bhagwan Mahavir Hospital Blood Bank,rajasthan,Pali,25.13291,73.11258,0.0,0.0,0.0,702
+BB1722,Government District Hospital Blood Bank,rajasthan,Pratapgarh,25.68353,81.99844,0.0,0.0,0.0,703
+BB1723,R.K. District Hospital Blood Bank,rajasthan,Rajsamand,25.02419,73.88361,0.0,0.0,0.0,704
+BB1724,Riya Hospital Blood Bank,rajasthan,Sawai Madhopur,26.48754,76.74024,0.0,0.0,0.0,705
+BB1730,Government General Hospital Blood Bank,rajasthan,Sirohi,24.88629,72.85942,0.0,0.0,0.0,707
+BB1731,Rotary International Global Hospital Blood Bank,rajasthan,Sirohi,24.53829,72.80196,0.0,0.0,0.0,708
+BB1736,Sadat Government Hospital Blood Bank,rajasthan,Tonk,26.1769,75.78533,0.0,0.0,0.0,710
+BB1745,Government General Hospital Blood Bank,sikkim,South Sikkim,27.16562,88.36039,0.0,0.0,0.0,713
+BB1787,Tagore Medical College Hospital Blood Bank,tamil-nadu,Chennai,12.8602,80.29166,0.0,0.0,0.0,714
+BB1795,Government Hospital Blood Bank,tamil-nadu,Coimbatore,11.30485,76.93712,0.0,0.0,0.0,716
+BB1806,RVS Hospital Blood Bank,tamil-nadu,Coimbatore,11.02843,77.13414,0.0,0.0,0.0,717
+BB1818,Government Hospital Blood Bank,tamil-nadu,Cuddalore,11.51558,79.31677,0.0,0.0,0.0,721
+BB1819,Neyveli Lignite Corporation,tamil-nadu,Cuddalore,11.53704,79.46718,0.0,0.0,0.0,722
+BB1826,Leonard Hospital Blood Bank,tamil-nadu,Dindigul,10.16551,77.76067,0.0,0.0,0.0,725
+BB1829,Government Hospital Blood Bank,tamil-nadu,Dindigul,10.4485,77.51691,0.0,0.0,0.0,727
+BB1831,IRT Perunthurai Medical College Hospital Blood Bank,tamil-nadu,Erode,11.28083,77.5675,0.0,0.0,0.0,728
+BB1836,Chengalpattu Medical College Hospital Blood Bank,tamil-nadu,Kanchipuram,12.67762,79.98029,0.0,0.0,0.0,731
+BB1837,Shri Sathya Sai Medical College and Research Institute Blood Bank,tamil-nadu,Kanchipuram,12.74631,80.13239,0.0,0.0,0.0,732
+BB1839,Annai Medical College and Hospital Blood Bank (Run by Sri Devi Karumari Amman Educational Trust),tamil-nadu,Kanchipuram,12.97068,79.97638,0.0,0.0,0.0,733
+BB1843,SRM Medical College Hospital Blood Bank,tamil-nadu,Kanchipuram,12.82285,80.04873,0.0,0.0,0.0,735
+BB1844,Chettinad Hospital and Research Institute Blood Bank,tamil-nadu,Kanchipuram,12.79497,80.21613,0.0,0.0,0.0,736
+BB1848,Deen Dayal Hospital Blood Bank,tamil-nadu,Kanchipuram,13.1775,79.81076,0.0,0.0,0.0,738
+BB1850,Sree Mookambika Institute Medical Science Blood Bank,tamil-nadu,Kanyakumari,8.3611,77.29237,0.0,0.0,0.0,739
+BB1867,Government Head Quarters Hospital Blood Bank,tamil-nadu,Madurai,9.96237,77.7886,0.0,0.0,0.0,745
+BB1874,Government Hospital Blood Bank,tamil-nadu,Nagapattinam,11.10168,79.64738,0.0,0.0,0.0,747
+BB1875,Government Head Quarters Hospital Blood Bank,tamil-nadu,Nagapattinam,10.77284,79.84389,0.0,0.0,0.0,748
+BB1878,Government Hospital Blood Bank,tamil-nadu,Namakkal,11.46111,78.18513,0.0,0.0,0.0,750
+BB1882,Government Head Quarters Hospital Blood Bank,tamil-nadu,Pudukkottai,10.3788,78.81826,0.0,0.0,0.0,752
+BB1883,Government Hospital Blood Bank,tamil-nadu,Pudukkottai,10.18005,79.00014,0.0,0.0,0.0,753
+BB1884,Government Headquarters Hospital Blood Bank,tamil-nadu,Ramanathapuram,9.36375,78.83193,0.0,0.0,0.0,754
+BB1885,Government Hospital Blood Bank,tamil-nadu,Salem,11.59695,78.60139,0.0,0.0,0.0,755
+BB1886,Government Head Quarters Hospital Blood Bank,tamil-nadu,Salem,11.79583,77.79892,0.0,0.0,0.0,756
+BB1899,Government Head Quarters Hospital Blood Bank,tamil-nadu,Sivaganga,10.06395,78.77717,0.0,0.0,0.0,759
+BB1900,Government Sivagangai Medical College Hospital Blood Bank,tamil-nadu,Sivaganga,9.83888,78.47826,0.0,0.0,0.0,760
+BB1903,Government Hospital Blood Bank,tamil-nadu,Thanjavur,10.42108,79.31787,0.0,0.0,0.0,762
+BB1912,Gudalur Adivasi Hospital Blood Bank (Previously named as Ashwini hospital & under Ashwini trust),tamil-nadu,The Nilgiris,11.50223,76.49884,0.0,0.0,0.0,765
+BB1913,Government Head quarters Hospital,tamil-nadu,The Nilgiris,11.40795,76.70028,0.0,0.0,0.0,766
+BB1915,Government Head Quarters Hospital Blood Bank,tamil-nadu,Theni,10.12303,77.53294,0.0,0.0,0.0,767
+BB1916,Government Theni Medical College Hospital Blood Bank,tamil-nadu,Theni,10.00693,77.55319,0.0,0.0,0.0,768
+BB1917,Government Head Quarters Hospital Blood Bank,tamil-nadu,Thiruvallur,13.12765,79.91098,0.0,0.0,0.0,769
+BB1918,Government Medical College and Hospital Blood Bank,tamil-nadu,Thiruvarur,10.77914,79.60692,0.0,0.0,0.0,770
+BB1926,Chennai Medical College Hospital and Research Centre,tamil-nadu,Tiruchirappalli,10.95442,78.75489,0.0,0.0,0.0,774
+BB1929,Government Headquarters Hospital Blood Bank,tamil-nadu,Tiruchirappalli,10.60423,78.43786,0.0,0.0,0.0,775
+BB1932,Government Hospital Blood Bank,tamil-nadu,Tirunelveli,8.7026,77.38599,0.0,0.0,0.0,776
+BB1933,Government Hospital Blood Bank,tamil-nadu,Tirunelveli,9.1673,77.53576,0.0,0.0,0.0,777
+BB1934,Government Head Quarters Hospital Blood Bank,tamil-nadu,Tirunelveli,8.95257,77.31552,0.0,0.0,0.0,778
+BB1941,Government Hospital Blood Bank,tamil-nadu,Tiruppur,10.73251,77.53047,0.0,0.0,0.0,780
+BB1947,Government Medical College Hospital Blood Bank,tamil-nadu,Tiruvannamalai,12.22548,79.06474,0.0,0.0,0.0,783
+BB1948,ST Thomas Hospital Blood Bank and Leprosy Centre,tamil-nadu,Tiruvannamalai,12.46627,79.33599,0.0,0.0,0.0,784
+BB1952,Government Hospital Blood Bank,tamil-nadu,Vellore,12.94527,78.87057,0.0,0.0,0.0,786
+BB1953,Government Head Quarters Hospital Blood Bank,tamil-nadu,Vellore,12.49646,78.56571,0.0,0.0,0.0,787
+BB1954,Government Hospital Blood Bank,tamil-nadu,Vellore,12.67658,78.61593,0.0,0.0,0.0,788
+BB1958,Government Head Quarters Hospital Blood Bank,tamil-nadu,Vellore,12.92617,79.35663,0.0,0.0,0.0,790
+BB1959,Government Head Quarters Hospital Blood Bank,tamil-nadu,Villupuram,11.7373,78.95937,0.0,0.0,0.0,791
+BB1960,Melmaruvathur Adiparasakthi Institute of Medical Sciences and Research Blood Bank,tamil-nadu,Villupuram,12.43423,79.81321,0.0,0.0,0.0,792
+BB1963,Government Hospital Blood Bank,tamil-nadu,Villupuram,11.69276,79.28593,0.0,0.0,0.0,794
+BB1966,Government Hospital Blood Bank,tamil-nadu,Virudhunagar,9.50267,78.09722,0.0,0.0,0.0,796
+BB1967,Government Hospital Blood Bank,tamil-nadu,Virudhunagar,9.41412,77.59737,0.0,0.0,0.0,797
+BB1968,Government Hospital Blood Bank,tamil-nadu,Virudhunagar,9.46062,77.78637,0.0,0.0,0.0,798
+BB1969,Government Head Quarters Hospital Blood Bank,tamil-nadu,Virudhunagar,9.58839,77.96192,0.0,0.0,0.0,799
+BB1971,Indian Red Cross Society Blood Bank,telangana,Adilabad,18.87247,79.4447,0.0,0.0,0.0,800
+BB1972,Singareni Collieries Co. Ltd Blood bank,telangana,Adilabad,19.06313,79.48744,0.0,0.0,0.0,801
+BB2029,Singareni Collieries Co.Ltd Blood Bank,telangana,Karimnagar,18.75955,79.48164,0.0,0.0,0.0,804
+BB2037,Rudhira Voluntary Blood Bank,telangana,Khammam,17.76932,80.49939,0.0,0.0,0.0,806
+BB2040,Sarala Blood Bank,telangana,Khammam,17.556,80.6144,0.0,0.0,0.0,808
+BB2043,Singareni Collieries Co. Ltd,telangana,Khammam,17.93121,80.82662,0.0,0.0,0.0,809
+BB2044,Asha Emergency & Chest Hospital Blood Bank,telangana,Khammam,17.24618,80.83224,0.0,0.0,0.0,810
+BB2046,Indian Red Cross Society,telangana,Mahbubnagar,16.23366,77.80814,0.0,0.0,0.0,812
+BB2047,Government District Head Quarters Hospital Blood Bank,telangana,Mahbubnagar,16.75021,77.99144,0.0,0.0,0.0,813
+BB2048,Indian Red Cross Society Blood Bank,telangana,Mahbubnagar,16.0,78.00115,0.0,0.0,0.0,814
+BB2049,IRCS & RCH-II Blood Bank District Hospital Wanaparthy,telangana,Mahbubnagar,16.36231,78.06218,0.0,0.0,0.0,815
+BB2050,Maheshwara Medical College and Maheshwara Hospital Blood Bank,telangana,Medak,17.56241,78.20521,0.0,0.0,0.0,816
+BB2052,The APVVP District Head Quarters Hospital,telangana,Medak,18.05294,78.26185,0.0,0.0,0.0,817
+BB2053,Indian Red Cross Society,telangana,Medak,18.09884,78.84139,0.0,0.0,0.0,818
+BB2077,Indian Red Cross Society Blood Bank,telangana,Rangareddy,17.33643,77.90485,0.0,0.0,0.0,823
+BB2079,Indian Red Cross Society Blood Bank RCH-II ( Jangaon),telangana,Warangal,17.72105,79.16041,0.0,0.0,0.0,824
+BB2084,Singareni Collieries Company Limited Area Hospital Blood Bank,telangana,Warangal,18.40097,79.85278,0.0,0.0,0.0,826
+BB2085,Bimal Singha Memorial Hospital Blood Bank,tripura,Dhalai,24.19614,91.83148,0.0,0.0,0.0,827
+BB2086,District Hospital Gomati Blood Bank,tripura,Gomati,23.5544,91.45553,0.0,0.0,0.0,828
+BB2087,District Hospital Blood Bank Dharmanagar,tripura,North Tripura,24.234,92.09507,0.0,0.0,0.0,829
+BB2088,R.G.M Hospital Blood Bank Unakoti,tripura,Unakoti,24.30461,92.03337,0.0,0.0,0.0,830
+BB2089,Agartala Govt. Medical College GBP Hospital Blood Bank,tripura,West Tripura,23.51648,91.17531,0.0,0.0,0.0,831
+BB2114,Mahamaya Rajkiya Allopathic Medical College,uttar-pradesh,Ambedkar Nagar,26.50913,82.6139,0.0,0.0,0.0,836
+BB2115,District Combined Hospital Blood Bank,uttar-pradesh,Baghpat,28.94639,77.21707,0.0,0.0,0.0,837
+BB2116,District Hospital Blood Bank,uttar-pradesh,Bahraich,27.57241,81.6059,0.0,0.0,0.0,838
+BB2117,District Hospital Blood Bank,uttar-pradesh,Ballia,25.75081,84.14747,0.0,0.0,0.0,839
+BB2119,District Hospital Blood Bank,uttar-pradesh,Banda,25.48931,80.33489,0.0,0.0,0.0,841
+BB2128,Rajshree Medical Research Institute,uttar-pradesh,Bareilly,28.48308,79.28531,0.0,0.0,0.0,844
+BB2130,Sri Ram Murti Samarak Institute of Medical Sciences Blood Bank,uttar-pradesh,Bareilly,28.4811,79.4432,0.0,0.0,0.0,845
+BB2134,District Hospital Blood Bank,uttar-pradesh,Bijnor,29.38497,78.13652,0.0,0.0,0.0,847
+BB2135,Sarvodaya Jankalyan Samati,uttar-pradesh,Bijnor,26.00507,81.04475,0.0,0.0,0.0,848
+BB2136,District Hospital Blood Bank,uttar-pradesh,Budaun,28.02773,79.12628,0.0,0.0,0.0,849
+BB2138,NAPS (Narora Atomic Power Station) Hospital Blood Bank,uttar-pradesh,Bulandshahr,28.20592,78.37913,0.0,0.0,0.0,850
+BB2139,Combined District Hospital Blood Bank,uttar-pradesh,Chitrakoot,25.19617,80.91461,0.0,0.0,0.0,851
+BB2140,District Hospital Blood Bank,uttar-pradesh,Deoria,26.49568,83.78149,0.0,0.0,0.0,852
+BB2141,Dr. Bhimrao Ambedkar Combined Hospital (District Hospital),uttar-pradesh,Etawah,26.7879,79.00552,0.0,0.0,0.0,853
+BB2142,Rural Institute of Medical Sciences and Research,uttar-pradesh,Etawah,26.96145,78.96206,0.0,0.0,0.0,854
+BB2165,Divya Joyati Institute Of Medical Science & Research,uttar-pradesh,Ghaziabad,28.83066,77.57016,0.0,0.0,0.0,860
+BB2178,District Hospital Blood Bank,uttar-pradesh,Ghazipur,25.58201,83.58211,0.0,0.0,0.0,862
+BB2187,District Hospital Blood Bank,uttar-pradesh,Hardoi,27.39576,80.13466,0.0,0.0,0.0,864
+BB2189,Government Medical College and Hospital Blood Bank,uttar-pradesh,Jalaun,25.99985,79.4734,0.0,0.0,0.0,866
+BB2198,B.S.D.B.A. Government Medical College and Hospital,uttar-pradesh,Kannauj,26.96333,79.79224,0.0,0.0,0.0,869
+BB2199,Combined District Hospital Blood Bank,uttar-pradesh,Kannauj,27.11809,79.71248,0.0,0.0,0.0,870
+BB2215,Combined District Hospital,uttar-pradesh,Kaushambi,25.36105,81.40317,0.0,0.0,0.0,872
+BB2216,District Hospital,uttar-pradesh,Lakhimpur Kheri,27.9459,80.78447,0.0,0.0,0.0,873
+BB2217,District Hospital,uttar-pradesh,Lalitpur,24.69623,78.41232,0.0,0.0,0.0,874
+BB2244,District Hospital,uttar-pradesh,Mahoba,25.29315,79.88485,0.0,0.0,0.0,876
+BB2246,K.D. Medical College Hospital & Research Centre Blood Bank,uttar-pradesh,Mathura,27.65046,77.54992,0.0,0.0,0.0,877
+BB2261,District Hospital Blood Bank,uttar-pradesh,Mirzapur,25.15409,82.57723,0.0,0.0,0.0,881
+BB2270,District Hospital Blood Bank,uttar-pradesh,Muzaffarnagar,29.47877,77.69691,0.0,0.0,0.0,883
+BB2271,Muzaffarnagar Medical College and Hospital,uttar-pradesh,Muzaffarnagar,29.3724,77.70667,0.0,0.0,0.0,884
+BB2272,District Hospital,uttar-pradesh,Pilibhit,28.63071,79.81646,0.0,0.0,0.0,885
+BB2273,District Hospital Blood Bank,uttar-pradesh,Pratapgarh,25.9221,81.99864,0.0,0.0,0.0,886
+BB2274,District Hospital Blood Bank,uttar-pradesh,Raebareli,26.22275,81.23944,0.0,0.0,0.0,887
+BB2279,District Hospital Blood Bank,uttar-pradesh,Sant Kabir Nagar,26.73284,83.13913,0.0,0.0,0.0,890
+BB2280,Jeevan Deep Hospital Private Limited Blood Bank,uttar-pradesh,Sant Ravidas Nagar (Bhadohi),25.38786,82.59276,0.0,0.0,0.0,891
+BB2281,Maharaja Chet Singh District Hospital,uttar-pradesh,Sant Ravidas Nagar (Bhadohi),25.35872,82.46412,0.0,0.0,0.0,892
+BB2284,Hind Institute of Medical Sciences Blood Bank,uttar-pradesh,Sitapur,27.18872,80.85432,0.0,0.0,0.0,894
+BB2287,Hindalco Hospital Blood Bank,uttar-pradesh,Sonbhadra,24.21296,83.03674,0.0,0.0,0.0,896
+BB2288,District Joint Hospital,uttar-pradesh,Sonbhadra,24.64617,83.05861,0.0,0.0,0.0,897
+BB2289,Sanjay Gandhi Hospital Blood Bank,uttar-pradesh,Sultanpur,26.21066,81.80713,0.0,0.0,0.0,898
+BB2290,District Hospital Blood Bank,uttar-pradesh,Sultanpur,26.26271,82.06991,0.0,0.0,0.0,899
+BB2291,District Hospital Blood Bank,uttar-pradesh,Unnao,26.53781,80.47888,0.0,0.0,0.0,900
+BB2300,District Hospital,uttarakhand,Almora,29.59808,79.65904,0.0,0.0,0.0,902
+BB2301,Govind Singh Mahra Government Hospital Blood Bank,uttarakhand,Almora,29.64348,79.43886,0.0,0.0,0.0,903
+BB2302,Gopeshwar (Chamoli) District Hospital Blood Bank,uttarakhand,Chamoli,30.41009,79.32013,0.0,0.0,0.0,904
+BB2308,Himalayan Institute Trust Blood Bank,uttarakhand,Dehradun,30.19288,78.16482,0.0,0.0,0.0,906
+BB2309,SPS Government Hospital Blood Bank,uttarakhand,Dehradun,30.10871,78.29584,0.0,0.0,0.0,907
+BB2317,Government Combined Hospital Blood Bank,uttarakhand,Pauri Garhwal,29.75139,78.52414,0.0,0.0,0.0,911
+BB2325,Jawahar Lal Nehru District Hospital (JLN ) Blood Bank,uttarakhand,Udham Singh Nagar,28.97039,79.39983,0.0,0.0,0.0,915
+BB2326,Uttarkashi District Hospital Blood Bank,uttarakhand,Uttar Kashi,30.72979,78.44269,0.0,0.0,0.0,916
+BB2330,Bongaon S.D. Hospital Blood Bank (Dr. J.R. Dhar),west-bengal,24 Paraganas North,23.04766,88.82285,0.0,0.0,0.0,919
+BB2331,S.D. Hospital Blood Bank Basirhat,west-bengal,24 Paraganas North,22.66614,88.89003,0.0,0.0,0.0,920
+BB2332,Canning Sub Divisional Hospital Blood Bank,west-bengal,24 Paraganas South,22.31413,88.65972,0.0,0.0,0.0,921
+BB2333,Diamond Harbour Hospital Blood Bank,west-bengal,24 Paraganas South,22.19759,88.191,0.0,0.0,0.0,922
+BB2334,Baruipur Sub-Divisional Hospital Blood Bank,west-bengal,24 Paraganas South,22.35921,88.43357,0.0,0.0,0.0,923
+BB2337,Bishnupur S.D. Hospital Blood Bank,west-bengal,Bankura,23.06894,87.3098,0.0,0.0,0.0,925
+BB2338,Khatra SD Hospital Blood Bank,west-bengal,Bankura,22.9691,86.84854,0.0,0.0,0.0,926
+BB2342,Kasturba Gandhi Hospital Blood Bank,west-bengal,Bardhaman,23.84953,86.89591,0.0,0.0,0.0,928
+BB2346,Sanctoria Hospital Blood Bank,west-bengal,Bardhaman,23.70618,86.82802,0.0,0.0,0.0,930
+BB2352,Kalna Sub Divisional Hospital Blood Bank,west-bengal,Bardhaman,23.22347,88.34616,0.0,0.0,0.0,932
+BB2353,"Hemraj Blood Bank, Katwa S.D. Hospital",west-bengal,Bardhaman,23.64603,88.12639,0.0,0.0,0.0,933
+BB2355,Rampurhat S.D. Hospital Blood Bank,west-bengal,Birbhum,24.18855,87.7931,0.0,0.0,0.0,934
+BB2356,Bolpur Sub Divisional Hospital Blood Bank,west-bengal,Birbhum,23.66371,87.69085,0.0,0.0,0.0,935
+BB2357,Suri Sadar District Hospital Blood Bank,west-bengal,Birbhum,23.91578,87.51692,0.0,0.0,0.0,936
+BB2361,Balurghat District Hospital Blood Bank,west-bengal,Dakshin Dinajpur,25.24751,88.78165,0.0,0.0,0.0,938
+BB2363,Darjeeling District Hospital Blood Bank,west-bengal,Darjeeling,27.04443,88.26248,0.0,0.0,0.0,939
+BB2365,Kalimpong Sub Divisional Hospital Blood Bank,west-bengal,Darjeeling,27.07215,88.47211,0.0,0.0,0.0,941
+BB2366,Kurseong Sub Divisional Hospital Blood Bank,west-bengal,Darjeeling,26.88052,88.27758,0.0,0.0,0.0,942
+BB2370,Arambagh Sub Divisional Hospital Blood Bank,west-bengal,Hooghly,22.88739,87.78602,0.0,0.0,0.0,943
+BB2378,Air Force Hospital Blood Bank,west-bengal,Jalpaiguri,26.70445,89.3603,0.0,0.0,0.0,946
+BB2379,Alipurduar Sub Divisional Hospital Blood Bank,west-bengal,Jalpaiguri,26.48443,89.52307,0.0,0.0,0.0,947
+BB2380,Jalpaiguri Sub Divisonal Hospital Blood Bank,west-bengal,Jalpaiguri,26.52916,88.72745,0.0,0.0,0.0,948
+BB2419,Malda Medical College & Hospital Blood bank,west-bengal,Malda,24.99533,88.13738,0.0,0.0,0.0,949
+BB2420,Contai Sub Divisional Hospital Blood Bank,west-bengal,Medinipur East,21.78168,87.77601,0.0,0.0,0.0,950
+BB2421,"Dr. Bidhan Chandra Roy Hospital Blood Bank, Haldia (A Unit of ICARE)",west-bengal,Medinipur East,22.06398,88.03602,0.0,0.0,0.0,951
+BB2422,Haldia Sub Divisional Hospital Blood Bank,west-bengal,Medinipur East,22.08063,88.14276,0.0,0.0,0.0,952
+BB2423,Purba Medinipur District Hospital Blood bank,west-bengal,Medinipur East,22.28638,87.91966,0.0,0.0,0.0,953
+BB2424,Ghatal Sub Divisonal Hospital Blood Bank,west-bengal,Medinipur West,22.65705,87.73773,0.0,0.0,0.0,954
+BB2425,Jhargram Blood Bank,west-bengal,Medinipur West,22.44773,86.99728,0.0,0.0,0.0,955
+BB2429,S.D. Hospital Blood Bank Jangipur,west-bengal,Murshidabad,24.4603,88.06167,0.0,0.0,0.0,957
+BB2430,S.D. Hospital Blood Bank Kandi,west-bengal,Murshidabad,23.95347,88.03898,0.0,0.0,0.0,958
+BB2433,Nadia District Hospital Blood Bank Krishnanagar (Saktinagar),west-bengal,Nadia,23.40544,88.49109,0.0,0.0,0.0,960
+BB2436,Nabadwip SGH Blood Bank,west-bengal,Nadia,23.42455,88.35717,0.0,0.0,0.0,962
+BB2437,Deben Mahato (Sadar) Hospital Blood Bank,west-bengal,Purulia,23.33239,86.36266,0.0,0.0,0.0,963
+BB2438,"Raiganj Blood Bank, Uttar Dinajpur Raiganj District Hospital",west-bengal,Uttar Dinajpur,25.6099,88.13249,0.0,0.0,0.0,964
+BB2439,Sub Divisional Hospital Blood Bank Islampur,west-bengal,Uttar Dinajpur,26.25767,88.18529,0.0,0.0,0.0,965

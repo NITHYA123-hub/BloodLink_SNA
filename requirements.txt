@@ -1,0 +1,8 @@
+pandas
+numpy
+streamlit
+networkx
+plotly
+matplotlib
+pydeck
+streamlit-geolocation
